@@ -8,16 +8,27 @@ This script is specifically designed for environments where:
 ⚠️ If you're unfamiliar with Git bare repositories or shared drive setups, this script may not be suitable for your workflow.
 
 ## 🚀 Features
+
 🔄 Sync local ↔ remote data folders
+
 🧠 Smart sync using file hash comparison
+
 🗃️ Optional cleaning of local or remote folders
+
 📁 Configurable via syncconfig.json
+
 📝 Logging to console and sync.log
+
 🧪 Dry run mode for safe testing
+
 ⚠️ Error handling with retry logic
+
 📊 Sync summary report
+
 🚫 Exclusion patterns support
+
 📈 Progress bar during sync
+
 ❓ Help and usage instructions
 
 ## 📦 Installation
